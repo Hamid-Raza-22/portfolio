@@ -1,13 +1,3 @@
-<h1 align="center">
-  <a href="https://david-legend.github.io/aerium/" target="_blank">david-legend.github.io/aerium/</a>
-</h1>
-
-<p align="center">
-    This is Aerium, a beautifully designed portfolio website built with <strong>flutter</strong>.
-</p>
-<p align="center">
-    It is inspired by <a href="https://www.behance.net/gallery/68081313/Portfolio-Design-Concept?tracking_source=search_projects_recommended%7Cportfolio" target="_blank">Pavel G's Designs on Behance</a>
-</p>
 
 
 
@@ -26,11 +16,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ha
 
 ## Enjoy
 
-![Screenshot](assets/screenshots/portfolio_2.gif)
 
-![Screenshot](assets/screenshots/portfolio_3.gif)
-
-![Screenshot](assets/screenshots/portfolio_mobile_1.gif)
 
 ## Actual Designs Used
 
