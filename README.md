@@ -14,10 +14,6 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 Yes, you can fork this repo. Please give me proper credit by linking back to [hamidraza.com](http://hamidraza.com). Thanks!
 
 
-## Enjoy
-
-
-
 ## Actual Designs Used
 
 ![Screenshot](assets/screenshots/portfolio_design_2.png)
